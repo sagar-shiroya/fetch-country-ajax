@@ -2,6 +2,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
+    
 }
 body {
     font-size: 20px;
@@ -24,8 +25,13 @@ button {
     background-color: rgb(251, 248, 244);
 }
 
+#feed > div:hover, button:hover {
+    background-color: rgb(253, 192, 111);
+    cursor: pointer;
+}
+
 #feed > div > p {
     font-size: 20px;
     font-weight: lighter;
-    
+    text-align: center;  
 }
