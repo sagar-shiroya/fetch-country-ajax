@@ -11,6 +11,14 @@
 `-- index.js
 ```
 
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   HTML
+*   CSS
+*   JavaScript
+
 <h2>Project Screenshots:</h2>
 
 <img src="https://user-images.githubusercontent.com/14357087/147475741-8b2d8319-41b7-48b3-a6e7-448fb2b69bbd.png" width="70%"><br>
