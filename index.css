@@ -3,10 +3,29 @@
     flex-wrap: wrap;
     justify-content: space-evenly;
 }
-
+body {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+button {
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: rgb(255, 232, 197);
+    border: 1px solid black;
+    margin: 20px;
+    font-weight: bolder;
+}
 #feed > div{
     margin: 10px;
     border-radius: 5px;
     border: 1px solid wheat;
     padding: 10px;
+    background-color: rgb(251, 248, 244);
+}
+
+#feed > div > p {
+    font-size: 20px;
+    font-weight: lighter;
+    
 }
